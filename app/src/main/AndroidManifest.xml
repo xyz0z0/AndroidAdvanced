@@ -9,12 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidAdvanced">
-        <activity android:name=".c01.GenericActivity">
+        <activity android:name=".c02.KotlinAnnotationTestActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity android:name=".c01.GenericActivity">
+
         </activity>
         <activity android:name=".c02.Chapter02Activity" />
         <activity android:name=".MainActivity">
