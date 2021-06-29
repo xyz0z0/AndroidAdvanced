@@ -4,6 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidAdvanced.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidAdvanced.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidAdvanced.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidAdvanced.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dexdemo/AndroidAdvanced.dexdemo.iml" filepath="$PROJECT_DIR$/.idea/modules/dexdemo/AndroidAdvanced.dexdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javademo/AndroidAdvanced.javademo.iml" filepath="$PROJECT_DIR$/.idea/modules/javademo/AndroidAdvanced.javademo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javapoetlib/AndroidAdvanced.javapoetlib.iml" filepath="$PROJECT_DIR$/.idea/modules/javapoetlib/AndroidAdvanced.javapoetlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javapoettest/AndroidAdvanced.javapoettest.iml" filepath="$PROJECT_DIR$/.idea/modules/javapoettest/AndroidAdvanced.javapoettest.iml" />
     </modules>
   </component>
 </project>

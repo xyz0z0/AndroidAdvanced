@@ -1,2 +1,6 @@
 rootProject.name = "AndroidAdvanced"
 include ':app'
+include ':javapoettest'
+include ':javapoetlib'
+include ':javademo'
+include ':dexdemo'

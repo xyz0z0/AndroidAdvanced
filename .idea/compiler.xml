@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="1.8" />
+    <bytecodeTargetLevel target="1.7">
+      <module name="AndroidAdvanced.app" target="1.8" />
+      <module name="AndroidAdvanced.dexdemo" target="1.8" />
+      <module name="AndroidAdvanced.javademo" target="1.8" />
+      <module name="AndroidAdvanced.javapoettest" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
